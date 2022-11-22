@@ -1,4 +1,4 @@
-import Body from "./components/nav bar/body";
+import Body from "./components/body/body";
 import Navbar from "./components/nav bar/navbar";
 
 function App() {
